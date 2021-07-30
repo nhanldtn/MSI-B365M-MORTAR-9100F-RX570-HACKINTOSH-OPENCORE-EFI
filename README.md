@@ -13,6 +13,7 @@ Note: Please update your SerialNumber and UUID
 * RAM: 2 x 8GB DDR4 2666MHz
 * VGA: RX570 8GB
 * Ethernet: Intel I219 (built-in card)
+* TBD
 
 ## Update
 #### 2021.07.30
